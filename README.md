@@ -1,5 +1,18 @@
 # TranslationToolbox README
 
+## 使い方
+
+拡張機能を読み込んだら、翻訳させた単語あるいは文を選択します。選択されたテキスト上にカーソルこ重ねるか、`cmd+K cmd+I` または、コマンドパレットから`ホバーの表示 (Show Hover)` を実行すると、翻訳結果が hover として表示されます。
+
+* オリジナルの TranslationToolbox 拡張機能では、ショートカットキーでコマンドを有効にするようになっていますが、これは拡張機能が activate されると同時に有効になります。
+選択したものが、翻訳や対象として送信されるので注意してください
+
+Original:
+
+* <https://github.com/wly2014/TranslationToolbox>
+* <https://marketplace.visualstudio.com/items?itemName=WLY.translationtoolbox>
+## TranslationToolbox README
+
 翻译工具箱，使得文本翻译更加方便快捷，启用快捷键： `ctrl+alt+t or cmd+alt+t`
 
 ## Features
