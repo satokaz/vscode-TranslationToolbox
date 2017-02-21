@@ -11,7 +11,7 @@
 
 * また、proxy 経由でもアクセスできるようになっています。実験的ではありますが、settings.json の設定から proxy を取得します。
 
-![alt](images/2017-02-21-21.50.26.png)
+![alt](https://raw.githubusercontent.com/satokaz/vscode-TranslationToolbox/toJapanese/images/2017-02-21-21.50.26.png?token=ANAOrHze_zrYY0D69BxsMHJ-mbNZeid-ks5YtghEwA%3D%3D)
 
 Original:
 
